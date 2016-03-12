@@ -142,27 +142,45 @@
         "_altText": "of components completed on this page."
     },
     "_resources": {
-        "title": "Resources",
+        "title": "This Course",
         "description": "View resources for this course by clicking here.",
         "_filterButtons": {
             "all": "All",
-            "document": "Document",
-            "media": "Media",
-            "link": "Link"
+            "document": "Modules",
+            "media": "Resources",
+            "link": "Links"
         },
         "_filterAria": {
-            "allAria": "View all resources",
-            "documentAria": "View document resources",
-            "mediaAria": "View media resources",
-            "linkAria": "View resource links"
+            "allAria": "View all links to this course",
+            "documentAria": "View modules for this course",
+            "mediaAria": "View additional resources",
+            "linkAria": "View additional links"
         },
         "itemAriaExternal": "This content will open in a new window",
         "_resourcesItems": [
             {
                 "_type": "document",
-                "title": "Vanilla Theme Swatch",
-                "description": "See the swatch for the default vanilla by clicking here.",
-                "_link": "course/en/images/vanilla-swatch.jpg"
+                "title": "Course Home",
+                "description": "about Module 01",
+                "_link": "#/"
+            },
+            {
+                "_type": "document",
+                "title": "Module-01",
+                "description": "about Module 01",
+                "_link": "#/id/co-05"
+            },
+            {
+                "_type": "document",
+                "title": "Module-02",
+                "description": "about Module 02",
+                "_link": "#/id/co-10"
+            },
+            {
+                "_type": "document",
+                "title": "Module-03",
+                "description": "about Module 03",
+                "_link": "#/id/co-15"
             },
             {
                 "_type": "media",
