@@ -20,7 +20,6 @@
         "adapt-contrib-pageLevelProgress": "*",
         "adapt-contrib-resources": "*",
         "adapt-contrib-slider": "*",
-        "adapt-contrib-spoor": "*",
         "adapt-contrib-bookmarking": "*"
     }
 }

@@ -188,6 +188,12 @@
                 "description": "Fancy catching up on some Adapt material? Click here.",
                 "_link": "https://www.youtube.com/channel/UCW8SlSFuCc--B66Gf9fAEcQ"
             },
+		  {
+			"_type": "media",
+			"title": "Adapt Learning YouTube Channel",
+			"description": "Fancy catching up on some Adapt material? Click here.",
+			"_link": "https://www.youtube.com/channel/UCW8SlSFuCc--B66Gf9fAEcQ"
+		  },
             {
                 "_type": "link",
                 "title": "Community Site",
